@@ -1,0 +1,50 @@
+_repo: Handbook-of-violin-playing_73023
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Matthews, John
+    alias: Matthews, J. (John)
+    birthdate: 1856
+    deathdate: 1938
+    gutenberg_agent_id: '56879'
+    url: http://www.gutenberg.org/2009/agents/56879
+creator:
+  author:
+    agent_name: Schroeder, Carl
+    aliases:
+    - Schröder, Carl
+    - Schröder, Karl
+    - Schröder, C. (Carl)
+    - Schroder, Carl
+    - Schroeder, C. (Carl)
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '56914'
+    url: http://www.gutenberg.org/2009/agents/56914
+description: ''
+edition_note: 4th edition.
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73023'
+language: en
+pgterms:marc905: 20070820182835schroeder
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Linda Cantoni, Adrian Mastronardi and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bAugener Ltd., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augener's edition, no. 9212
+subjects:
+- !lcsh 'Violin -- Instruction and study'
+- !lcsh 'Violin'
+- !lcsh 'Violin -- Bibliography'
+- !lcsh 'Viola -- Bibliography'
+- !lcc 'MT'
+- GITenberg
+title: Handbook of violin playing
+url: http://www.gutenberg.org/ebooks/73023
