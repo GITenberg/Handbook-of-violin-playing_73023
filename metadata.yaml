@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '56879'
     url: http://www.gutenberg.org/2009/agents/56879
+covers:
+- cover_type: archival
+  image_path: 73023-h/images/cover.jpg
 creator:
   author:
     agent_name: Schroeder, Carl
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '56914'
     url: http://www.gutenberg.org/2009/agents/56914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73023#Handbook-of-violin-playing
 edition_note: 4th edition.
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
